@@ -35,7 +35,7 @@ We welcome contributions from the community. If you’d like to add resources, s
 2. **Clone Your Fork**:  
    Clone your forked repository to your local machine:  
    ```bash  
-   git clone https://github.com/your-username/ArtisanArc.git  
+   git clone https://github.com/yWarlord27/ArtisanArc.git  
    ```  
 
 3. **Create a New Branch**:  
