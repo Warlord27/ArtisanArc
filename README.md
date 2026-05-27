@@ -62,6 +62,8 @@ This project is licensed under the [MIT License](LICENSE).
 ## Community & Support 💬  
 Join the conversation! If you have questions, feedback, or suggestions, feel free to open an issue or start a discussion.  
 
+## Secondary account of @fardinkaziinsightseeker-ui
+
 ## Connect with Us 🌐  
 Stay tuned for updates and announcements!  
 
